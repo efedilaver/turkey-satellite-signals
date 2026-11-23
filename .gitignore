@@ -1,0 +1,40 @@
+# Gizli bilgiler: asla commit etme
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials*.json
+service-account*.json
+.config/earthengine/
+
+# Çalışma klasörü (ham indirmeler ve ara çıktılar; betikler yeniden üretir)
+cikti/
+data/raw/
+
+# Yeniden dağıtılmaması gereken ham / lisanslı veri
+*_saatlik.csv
+hisse_gunluk.csv
+epias_*.csv
+comtrade*.csv
+*.parquet
+*.xlsx
+*.xls
+log_*.txt
+# TÜİK ham endeksleri ve Enerji Atlası eşlemesi (betiklerin beklediği yerel girdiler)
+/sue.csv
+/celik.csv
+/hes/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+
+# İşletim sistemi / editörler
+.DS_Store
+.idea/
+.vscode/

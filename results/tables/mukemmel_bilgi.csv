@@ -1,0 +1,13 @@
+hisse,surum,hafta,donem,hissede_hafta_yuzde,fazla_getiri_brut_yuzde,fazla_getiri_net_yuzde,rastgeleyi_gecme_brut,rastgeleyi_gecme_net,ters_yon_rastgeleyi_gecme,korelasyon
+AYDEM,mükemmel bilgi (gelecek hafta),285,2021-05–2026-10,46,7.2,-3.6,93,93,7,0.124
+AYDEM,"gerçekçi (önceki hafta, kamuya açık)",285,2021-05–2026-10,46,13.5,2.1,95,93,5,0.11
+ENTRA,mükemmel bilgi (gelecek hafta),132,2024-04–2026-10,55,-41.7,-44.1,9,10,91,0.012
+ENTRA,"gerçekçi (önceki hafta, kamuya açık)",132,2024-04–2026-10,55,-11.5,-15.5,61,61,39,0.053
+AKFYE,mükemmel bilgi (gelecek hafta),187,2023-03–2026-10,57,80.0,69.2,94,95,7,0.135
+AKFYE,"gerçekçi (önceki hafta, kamuya açık)",187,2023-03–2026-10,57,-3.7,-9.5,64,60,40,0.095
+AKENR,mükemmel bilgi (gelecek hafta),509,2017-01–2026-10,50,55.4,30.0,80,80,19,0.031
+AKENR,"gerçekçi (önceki hafta, kamuya açık)",509,2017-01–2026-10,50,-6.9,-22.1,58,60,39,0.012
+AYEN,mükemmel bilgi (gelecek hafta),509,2017-01–2026-10,50,111.7,77.1,89,90,9,0.064
+AYEN,"gerçekçi (önceki hafta, kamuya açık)",509,2017-01–2026-10,50,-2.9,-18.8,66,61,36,0.021
+ENDAE,mükemmel bilgi (gelecek hafta),87,2025-02–2026-10,46,-6.1,-7.4,82,82,18,0.048
+ENDAE,"gerçekçi (önceki hafta, kamuya açık)",87,2025-02–2026-10,46,-26.5,-27.8,34,34,66,-0.011

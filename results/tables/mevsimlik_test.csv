@@ -1,0 +1,12 @@
+test,r,alt,ust,n,yuzdelik,toplam_fazla_yuzde
+Mükemmel: çeyreğin hidrosu -> sepetin fazla getirisi,0.235,-0.029,0.468,38,,
+Gerçekçi: önceki çeyreğin hidrosu -> sepetin fazla getirisi,0.347,0.117,0.546,38,,
+Mükemmel: çeyreğin hidrosu -> PTF yıllık değişim,-0.472,-0.645,-0.272,35,,
+Gerçekçi: önceki çeyreğin hidrosu -> PTF yıllık değişim,-0.238,-0.452,-0.024,35,,
+Çeyreklik strateji (mükemmel),,,,38,86.0,86.7
+Çeyreklik strateji (gerçekçi),,,,38,97.0,156.5
+Bahar suyu -> Haz–Kas hidrosu (bahar yazı haber veriyor mu?),0.858,0.565,0.977,10,,
+Mükemmel: Haz–Kas hidrosu -> Haz–Kas sepet fazla getirisi,0.278,-0.146,0.81,10,,
+Gerçekçi: bahar suyu -> Haz–Kas sepet fazla getirisi,0.531,0.218,0.957,10,,
+Mükemmel: Haz–Kas hidrosu -> Haz–Kas PTF yıllık değişim,-0.416,-0.762,-0.12,9,,
+Gerçekçi: bahar suyu -> Haz–Kas PTF yıllık değişim,0.086,-0.657,0.558,9,,

@@ -1,0 +1,5 @@
+hedef,hava_duzeltmesi,ay,donem,RMSE_M1,RMSE_M2,iyilesme_%,M2_daha_iyi_ay_%,son_tahmin
+Toplam sanayi,yok,41,2023-04–2026-08,3.77,3.73,1.3,59,2026-09: +0.9
+Toplam sanayi,var,41,2023-04–2026-08,3.83,4.19,-9.5,39,2026-09: +1.8
+Demir-çelik (C241),yok,41,2023-04–2026-08,8.28,8.66,-4.5,41,2026-09: +0.5
+Demir-çelik (C241),var,41,2023-04–2026-08,8.29,8.76,-5.7,46,2026-09: +2.7

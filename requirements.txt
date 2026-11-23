@@ -1,0 +1,20 @@
+# Temel analiz
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+pyarrow          # bilanço sürprizi çalışmalarının parquet girdileri
+openpyxl         # İSKİ xlsx (baraj_takip.py dogrula)
+
+# Veri toplama
+earthengine-api  # Google Earth Engine (gee_topla.py, gece_isik.py, celik_landsat.py, no2_nowcast.py)
+requests         # EPİAŞ Transparency Platform API
+yfinance         # günlük hisse fiyatları (hisse_indir.py)
+
+# Sentinel-2 baraj alanı prototipi (baraj_takip.py, STAC / COG erişimi)
+pystac-client
+rasterio
+shapely
+pyproj

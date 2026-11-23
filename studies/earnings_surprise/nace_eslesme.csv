@@ -1,0 +1,79 @@
+symbol,nace2,not
+BRSAN,24,çelik boru
+EREGL,24,yassı çelik
+ISDMR,24,yassı çelik
+KCAER,24,çelik
+KRDMA,24,uzun çelik
+SARKY,24,bakır
+AEFES,11,bira
+CCOLA,11,meşrubat
+BESLR,10,un
+TUKAS,10,konserve
+ULKER,10,bisküvi
+YYLGD,10,bakliyat/pirinç
+TEZOL,17,kağıt
+AKSA,20,akrilik elyaf
+GUBRF,20,gübre
+EGGUB,20,gübre
+HEKTS,20,tarım ilacı
+KMPUR,20,poliüretan
+PETKM,20,petrokimya
+POLTK,20,kimya (BIST alt sektörü)
+SASA,20,polyester
+DEVA,21,ilaç
+BRISA,22,lastik
+EGPRO,22,PVC profil
+EUREN,22,plastik
+ISKPL,22,plastik
+TUPRS,19,rafineri
+AYGAZ,19,LPG
+ARCLK,27,beyaz eşya
+VESBE,27,beyaz eşya
+VESTL,27,elektronik/beyaz eşya
+SAFKR,28,soğutma makinesi
+TMSN,28,motor/traktör
+TTRAK,28,traktör
+ASUZU,29,otomotiv
+BFREN,29,otomotiv yan sanayi
+EGEEN,29,otomotiv yan sanayi
+FROTO,29,otomotiv
+KARSN,29,otomotiv
+KATMR,29,üst yapı
+OTKAR,29,otomotiv
+PARSN,29,otomotiv yan sanayi
+TOASO,29,otomotiv
+GENTS,16,ahşap panel
+AKCNS,23,çimento
+BOBET,23,hazır beton
+BSOKE,23,çimento
+BTCIM,23,çimento
+BUCIM,23,çimento
+CIMSA,23,çimento
+GOLTS,23,çimento
+KLKIM,23,yapı kimyasalı
+KONYA,23,çimento
+NUHCM,23,çimento
+OYAKC,23,çimento
+QUAGR,23,kuvars yüzey
+USAK,23,seramik
+KORDS,13,lastik kordu
+SUNTK,13,tekstil
+YATAS,31,mobilya
+TRENJ,06,ham petrol
+TRALT,07,metal cevheri
+TRMET,07,metal cevheri
+AKSEN,35,elektrik
+ALFAS,35,enerji (BIST alt sektörü)
+ARASE,35,elektrik
+AYDEM,35,elektrik
+BIOEN,35,elektrik
+CANTE,35,elektrik
+ENJSA,35,elektrik dağıtım
+ESEN,35,elektrik
+GWIND,35,elektrik
+MAGEN,35,elektrik
+NATEN,35,elektrik
+NTGAZ,35,doğalgaz
+ODAS,35,elektrik
+SMRTG,35,enerji (BIST alt sektörü)
+ZOREN,35,elektrik
