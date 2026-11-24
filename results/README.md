@@ -17,6 +17,6 @@ Testlerin özet çıktıları. Sütun adları Türkçe; testlerin tanımı için
 | `tables/ufe_ozet.csv` | T-P4 | |
 | `tables/gtip_ozet.csv` | T-P5 | şirket bazında r ve n |
 | `tables/mom_ozet.csv` | T-P6 | |
-| `figures/*.png` | NO₂, haftalık ve mevsimlik testler | Etiketler Türkçe. `mukemmel_bilgi.png` başlığındaki "video", README'deki çıkış noktası videosudur. |
+| `figures/*.png` | NO₂, haftalık ve mevsimlik testler | Etiketler Türkçe. `mukemmel_bilgi.png` başlığındaki "video", docs/AYRINTILAR.md başındaki çıkış noktası videosudur. |
 
 Firma bazında olay dosyaları (`*_olaylar.csv`) ve ham veriler lisans nedeniyle konmadı.
